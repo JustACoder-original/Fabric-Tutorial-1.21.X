@@ -15,5 +15,3 @@ public class TutorialMod implements ModInitializer {
 
 	}
 }
-
-// jkjkjkjkjkjkljkjkjkjkjkjkjkj

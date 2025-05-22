@@ -1,5 +1,6 @@
 package com.justacoder.tutorialmod;
 
+import com.justacoder.tutorialmod.block.ModBlocks;
 import com.justacoder.tutorialmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
 
@@ -14,5 +15,6 @@ public class TutorialMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 	}
 }

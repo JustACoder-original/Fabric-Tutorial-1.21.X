@@ -3,7 +3,6 @@ package com.justacoder.tutorialmod;
 import com.justacoder.tutorialmod.block.ModBlocks;
 import com.justacoder.tutorialmod.item.ModItems;
 import net.fabricmc.api.ModInitializer;
-
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
